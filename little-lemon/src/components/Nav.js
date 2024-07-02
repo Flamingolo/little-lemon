@@ -3,7 +3,7 @@ import logo from ""
 
 
 
-const Nav = () => {
+export const Nav = () => {
     const [menuOpen, setMenuOpen] = useState(false);
 
     const toggleMenu = () => {
