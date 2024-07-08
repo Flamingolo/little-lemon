@@ -2,6 +2,9 @@ import React, { useReducer } from "react";
 import { Booking } from "./Booking";
 import { confirmedBookings } from "./ConfirmedBookings";
 import { Route, Routes } from 'react-router-dom';
+import { useNavigate } from "react-router-dom";
+import { Header } from "./Header";
+
 
 export const Main = () => {
     

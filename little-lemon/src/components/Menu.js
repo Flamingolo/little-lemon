@@ -1,6 +1,7 @@
 import React from "react";
-import recipes from "../recipes"
+import recipes from "../recipes.js"
 import Swal from "sweetalert2";
+
 
 export const Menu = () => {
 

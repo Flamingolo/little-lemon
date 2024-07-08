@@ -1,5 +1,6 @@
 import React from "react";
-import bannerImage from ""
+import { Link } from "react-router-dom";
+import bannerImage from "../images/Hero image.png"
 
 export const Header = () => {
     return (

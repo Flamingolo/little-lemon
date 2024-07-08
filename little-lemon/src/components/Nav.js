@@ -1,5 +1,5 @@
 import React, { useState } from "react"
-import logo from ""
+import logo from "../images/Logo.png"
 
 
 
